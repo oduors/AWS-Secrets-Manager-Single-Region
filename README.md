@@ -6,7 +6,7 @@ A Java-based solution for efficiently managing AWS Secrets Manager secrets withi
 This implementation provides a streamlined solution for listing AWS Secrets Manager secrets within a single region, with built-in pagination support and comprehensive error handling.
 
 ## Features
-- ✅ Efficient pagination (10 secrets per batch)
+- ✅ Efficient pagination 
 - ✅ Performance optimized (~520ms for 40 secrets)
 - ✅ Comprehensive error handling
 - ✅ Detailed logging and metrics
